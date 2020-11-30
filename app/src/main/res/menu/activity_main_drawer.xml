@@ -12,18 +12,17 @@
             android:title="@string/order" />
         <item
             android:id="@+id/nav_profile"
-            android:icon="@drawable/ic_account"
+            android:icon="@drawable/ic_outline_account"
             android:title="@string/profile" />
 
         <item
             android:id="@+id/nav_settings"
             android:title="@string/settings"
-            android:icon="@drawable/ic_settings"
-            />
+            android:icon="@drawable/ic_settings" />
+
         <item
             android:id="@+id/nav_about"
             android:title="@string/about_us"
-            android:icon="@drawable/ic_about"
-           />
+            android:icon="@drawable/ic_about" />
     </group>
 </menu>
